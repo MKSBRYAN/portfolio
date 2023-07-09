@@ -11,13 +11,22 @@ body {
   background-color: #111;
   color: #bbb;
 }
+.theme{
+transition: 1.5s all ease;
 
+}
 a{
   text-decoration:  none;
   color: inherit;
 }
-
-
+.dark{
+  background-color: #111;
+  color: #bbb;
+}
+.light{
+  background-color: white;
+  color: #111;
+}
 .container {
   max-width: 1366px;
   min-height: 100vh;
